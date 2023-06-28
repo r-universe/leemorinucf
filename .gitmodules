@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "FCVAR"]
 	path = FCVAR
 	url = https://github.com/leemorinucf/fcvar
-	shallow = true
-	registered = true
 [submodule "fracdist"]
 	path = fracdist
 	url = https://github.com/leemorinucf/fracdist
-	shallow = true
-	registered = true
